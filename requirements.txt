@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pillow
+pywin32
+pyautogui
+selenium
+bs4
+webdriver_manager
